@@ -1,5 +1,7 @@
 # Car Price Predictor
 
+Project/Demo link: https://car-price-price.herokuapp.com
+
 
 <img src="https://github.com/vedantsp/Second-hand-Car-Price-Predictor-with-UI/blob/main/DemoPhotos/Image%201.png">
 
