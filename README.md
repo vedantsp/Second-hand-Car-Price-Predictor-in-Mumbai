@@ -7,7 +7,7 @@
 
 # Aim
 
-This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
+This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, fuel type and Kilometers driven.
 
 <img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/predict.png">
 
