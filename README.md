@@ -9,7 +9,7 @@
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, fuel type and Kilometers driven.
 
-<img src="https://github.com/vedantsp/Second-hand-Car-Price-Predictor-with-UI/blob/main/DemoPhotos/second%20hand%20car%201.png">
+<img src="https://github.com/vedantsp/Second-hand-Car-Price-Predictor-with-UI/blob/main/DemoPhotos/Image%201.png">
 
 Some packages are:
  - numpy 
