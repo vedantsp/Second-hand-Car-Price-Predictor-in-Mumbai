@@ -1,7 +1,7 @@
 # Car Price Predictor
 
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
+<img src="https://github.com/vedantsp/Second-hand-Car-Price-Predictor-with-UI/blob/main/DemoPhotos/Image%201.png">
 
 
 
